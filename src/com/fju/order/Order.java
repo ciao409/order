@@ -2,7 +2,7 @@ package com.fju.order;
 
 public class Order {
     int amount;
-    int total
+    int total;
     Delivery delivery;
 
     public Order(int amount,Delivery delivery) {
